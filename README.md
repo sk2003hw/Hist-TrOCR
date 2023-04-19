@@ -1,6 +1,6 @@
 # Hist-TrOCR  
 Fine-tuned TrOCR on Historical Text ([ARDIS Dataset](https://ardisdataset.github.io/ARDIS/) and [Washington Database](https://fki.tic.heia-fr.ch/databases/washington-database)).  
-The Jupyter notebook can be downloaded and run using any compatible IDE.  
+The Jupyter notebook can be downloaded and run using any compatible IDE or from [this link](https://colab.research.google.com/drive/11vWXRLM4gz9h5hFpPRR_DEgd7U-t9ZVp?usp=sharing).  
 
 ## Private Repository  
 Another private repository contains the files that were created during the project's development, as seen below.  
